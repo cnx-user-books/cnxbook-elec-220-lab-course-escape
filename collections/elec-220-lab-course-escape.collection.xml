@@ -1,74 +1,23 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" type="Course">
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" type="Course" authors="Matthew Johnson">
   <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
-  <md:content-id>col11513</md:content-id>
-  <md:title>ELEC 220 Lab Course (ESCAPE)</md:title>
-  
-  
-  <md:license url="http://creativecommons.org/licenses/by/3.0/"/>
-  <md:language>en</md:language>
-
-  
-
-  
-  
-  
-  
-  
-
-  <md:uuid>3e411e46-32fd-4667-a4b5-8f2d48918301</md:uuid>
-<md:slug>elec-220-lab-course-escape</md:slug>
-</metadata>
-
+    <md:content-id>col11513</md:content-id>
+    <md:title>ELEC 220 Lab Course (ESCAPE)</md:title>
+    <md:license url="http://creativecommons.org/licenses/by/3.0/"/>
+    <md:language>en</md:language>
+    <md:uuid>3e411e46-32fd-4667-a4b5-8f2d48918301</md:uuid>
+    <md:slug>elec-220-lab-course-escape</md:slug>
+  </metadata>
   <col:content>
-    
-      <col:module document="m42303"/>
-        
-      
-    
-    
-      <col:module document="m42302"/>
-        
-      
-    
-    
-      <col:module document="m42304"/>
-        
-      
-    
-    
-      <col:module document="m37154"/>
-        
-      
-    
-    
-      <col:module document="m45850"/>
-        
-      
-    
-    
-      <col:module document="m45851"/>
-        
-      
-    
-    
-      <col:module document="m45965"/>
-        
-      
-    
-    
-      <col:module document="m46074"/>
-        
-      
-    
-    
-      <col:module document="m46087"/>
-        
-      
-    
-    
-      <col:module document="m46109"/>
-        
-      
-    
+    <col:module document="m42303"/>
+    <col:module document="m42302"/>
+    <col:module document="m42304"/>
+    <col:module document="m37154"/>
+    <col:module document="m45850"/>
+    <col:module document="m45851"/>
+    <col:module document="m45965"/>
+    <col:module document="m46074"/>
+    <col:module document="m46087"/>
+    <col:module document="m46109"/>
   </col:content>
 </col:collection>
